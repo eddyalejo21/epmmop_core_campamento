@@ -1,0 +1,2 @@
+Manifest-Version: 1.0
+Dependencies: commons.primefaces ,org.eclipse.persistence,commons.alfresco, javax.faces.api
